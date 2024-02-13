@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @petroleyes
-- 👀 I like 🐸🐈🧀🍔🍦🥝🍉🍍🍓
+- 👀 I like 🐸🐈🧀🍔🍦🥝🍉🍍🍓 and things that run on Linux
 - 🌱 I’m currently learning IaC, automation and DevOps
+- ✍🏻 I work with VMS/CCTV and cameras
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Ummm I can never think 💬 of a fun fact 
 
